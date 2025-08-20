@@ -1,2 +1,4 @@
 🔍 ProfilingID in authManager after cahflowcomplete: 0798353f-6d24-491f-8063-9aeff5d5ce95, Timestamp: 2025-08-20 13:02:23 +0000
 🔍 cahSessionID in response after cahflowcomplete: 0798353f-6d24-491f-8063-9aeff5d5ce95, Timestamp: 2025-08-20 13:02:23 +0000
+🔍 ProfilingID in authManager after cahflowcomplete: 8dfbfea8-e64f-4dea-976f-db2f7e020d71, Timestamp: 2025-08-20 13:07:58 +0000
+🔍 cahSessionID in response after cahflowcomplete: 8dfbfea8-e64f-4dea-976f-db2f7e020d71, Timestamp: 2025-08-20 13:07:58 +0000
