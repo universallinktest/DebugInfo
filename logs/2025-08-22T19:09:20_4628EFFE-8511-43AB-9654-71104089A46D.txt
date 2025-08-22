@@ -1,0 +1,3 @@
+🔍 Start profiling on login flow start, Timestamp: 2025-08-22 19:09:20 +0000
+🔍 ProfilingID first set: fd6ae4ff-36b1-44b8-bcd1-eea0577fe09c, Timestamp: 2025-08-22 19:09:22 +0000
+🔍 ProfilingID on sign on pressed step 1: fd6ae4ff-36b1-44b8-bcd1-eea0577fe09c, Timestamp: 2025-08-22 19:10:18 +0000
