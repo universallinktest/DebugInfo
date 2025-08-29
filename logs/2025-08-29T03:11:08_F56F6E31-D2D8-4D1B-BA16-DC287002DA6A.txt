@@ -1,0 +1,42 @@
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] save true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] save true for 1312
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] save true for 3312
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:08] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:09] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
+[2025-08-28 23:11:15] iOS 16.7.10 - iPhone | App 10.66.0 (Build 1)
+[log] get true for 2412
