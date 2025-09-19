@@ -34,3 +34,35 @@
 [log] sendCAHbehavioSecData
 [2025-09-19 10:39:27] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:40:11] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] cahSessionID in response after cahflowcomplete: e09ec6d2-0a4b-497b-b2c9-0b32d1ce3082, Timestamp: 2025-09-19 14:40:11 +0000
+[2025-09-19 10:43:08] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:43:08] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:43:08] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:43:08] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:43:15] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: e08fb66e-3b04-41f3-8ded-038aebd238c4
+[2025-09-19 10:43:15] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: e08fb66e-3b04-41f3-8ded-038aebd238c4
+[2025-09-19 10:43:15] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:43:17] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: e08fb66e-3b04-41f3-8ded-038aebd238c4
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:43:19] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:48:27] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
