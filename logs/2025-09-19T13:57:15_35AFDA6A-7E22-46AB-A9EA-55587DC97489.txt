@@ -16,3 +16,29 @@
 [log] clearTMXViewName : eDesAuthMobileLoginView
 [2025-09-19 09:58:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] cahSessionID in response after cahflowcomplete: 3ef6bfda-8953-46c4-ae95-f6b70f75a3f6, Timestamp: 2025-09-19 13:58:40 +0000
+[2025-09-19 10:07:11] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: f0f39d19-50ac-4a5b-8a84-2321fdb5b15a
+[2025-09-19 10:07:11] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: f0f39d19-50ac-4a5b-8a84-2321fdb5b15a
+[2025-09-19 10:07:11] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:07:13] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: f0f39d19-50ac-4a5b-8a84-2321fdb5b15a
+[2025-09-19 10:07:16] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:07:16] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:07:16] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-19 10:07:16] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:07:54] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-19 10:07:59] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 30ab81d6-4d3f-4bf7-8f81-425d3fdaaa87
+[2025-09-19 10:07:59] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 30ab81d6-4d3f-4bf7-8f81-425d3fdaaa87
+[2025-09-19 10:07:59] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 10:08:00] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
