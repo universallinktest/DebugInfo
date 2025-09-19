@@ -44,3 +44,39 @@
 [log] setTMXViewName : eDesAuthMobileLoginView
 [2025-09-19 08:43:56] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:00] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 5d815214-8c31-4d51-8da7-71a47e3f0ca9
+[2025-09-19 08:44:00] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 5d815214-8c31-4d51-8da7-71a47e3f0ca9
+[2025-09-19 08:44:00] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:02] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Profiling ID set: 5d815214-8c31-4d51-8da7-71a47e3f0ca9
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Braze dismissed
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Braze dismissed
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Braze dismissed
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Braze dismissed
+[2025-09-19 08:44:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-19 08:44:12] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-19 08:44:12] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 0d6e3048-a0b9-41a8-8e51-396e480e599d
+[2025-09-19 08:44:12] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 0d6e3048-a0b9-41a8-8e51-396e480e599d
+[2025-09-19 08:44:12] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-19 08:44:14] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] Profiling ID set: 0d6e3048-a0b9-41a8-8e51-396e480e599d
+[2025-09-19 08:55:03] iOS 16.7.11 - iPhone | App 10.68.0_dit16_SIT_2025918-22:53_main_dc183fa646 (Build 9)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
