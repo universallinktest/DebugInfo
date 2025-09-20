@@ -14,3 +14,5 @@
 [log] sendCAHbehavioSecData
 [2025-09-19 22:46:53] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
 [log] cahSessionID in response after cahflowcomplete: b38a2b13-62cc-46dd-9395-fdc401a4d5ef, Timestamp: 2025-09-20 02:46:53 +0000
+[2025-09-19 22:47:08] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
