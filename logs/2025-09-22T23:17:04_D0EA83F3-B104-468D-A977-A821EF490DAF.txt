@@ -12,3 +12,9 @@
 [log] setTMXViewName : eDesAuthMobileLoginView
 [2025-09-22 19:17:08] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-22 19:17:08] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 1012
+[2025-09-22 19:17:35] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-22 19:18:42] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] cahSessionID in response after cahflowcomplete: 1012, Timestamp: 2025-09-22 23:18:42 +0000
