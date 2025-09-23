@@ -20,3 +20,5 @@
 [log] sendCAHbehavioSecData
 [2025-09-22 22:08:45] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-22 22:10:22] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] cahSessionID in response after cahflowcomplete: d56b0c03-df32-4ab2-82cf-fe7ab36ed112, Timestamp: 2025-09-23 02:10:22 +0000
