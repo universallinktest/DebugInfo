@@ -16,3 +16,21 @@
 [log] clearTMXViewName : eDesAuthMobileLoginView
 [2025-09-23 19:08:43] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] cahSessionID in response after cahflowcomplete: 2052ad5a-0850-4585-86e1-83c341833ec4, Timestamp: 2025-09-23 23:08:43 +0000
+[2025-09-23 19:10:50] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 38d566dc-c85a-4119-80ab-2cd37341f658
+[2025-09-23 19:10:50] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 38d566dc-c85a-4119-80ab-2cd37341f658
+[2025-09-23 19:10:50] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-23 19:10:51] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 38d566dc-c85a-4119-80ab-2cd37341f658
+[2025-09-23 19:10:52] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-23 19:10:52] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-23 19:10:52] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-23 19:10:52] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-23 19:10:53] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
