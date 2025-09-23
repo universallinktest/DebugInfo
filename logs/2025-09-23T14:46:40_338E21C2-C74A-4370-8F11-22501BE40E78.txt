@@ -1,0 +1,14 @@
+[2025-09-23 10:46:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: f74891bb-8463-4425-8191-d71c62b074b3
+[2025-09-23 10:46:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: f74891bb-8463-4425-8191-d71c62b074b3
+[2025-09-23 10:46:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-23 10:46:41] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: f74891bb-8463-4425-8191-d71c62b074b3
+[2025-09-23 10:46:42] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Braze dismissed
+[2025-09-23 10:46:42] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-23 10:46:43] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
