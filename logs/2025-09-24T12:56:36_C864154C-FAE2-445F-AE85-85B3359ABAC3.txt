@@ -1,0 +1,10 @@
+[2025-09-24 08:56:36] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 32d55c4a-e93e-4701-83b6-a1f0fc76a1b5
+[2025-09-24 08:56:36] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 32d55c4a-e93e-4701-83b6-a1f0fc76a1b5
+[2025-09-24 08:56:38] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 32d55c4a-e93e-4701-83b6-a1f0fc76a1b5
+[2025-09-24 08:56:59] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-24 08:57:00] iOS 17.6.1 - iPhone | App 10.68.0 (Build 1)
+[log] cahSessionID in response after cahflowcomplete: 32d55c4a-e93e-4701-83b6-a1f0fc76a1b5, Timestamp: 2025-09-24 12:57:00 +0000
