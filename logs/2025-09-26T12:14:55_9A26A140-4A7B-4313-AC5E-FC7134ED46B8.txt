@@ -86,3 +86,27 @@
 [log] sendCAHbehavioSecData
 [2025-09-26 08:22:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] cahSessionID in response after cahflowcomplete: e6017e2e-92ee-4fa4-8a7a-f70ff51ca28e, Timestamp: 2025-09-26 12:22:10 +0000
+[2025-09-26 08:22:13] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-26 08:22:37] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 7408e90c-381a-4cbd-aa68-59ce133ba2e9
+[2025-09-26 08:22:37] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 7408e90c-381a-4cbd-aa68-59ce133ba2e9
+[2025-09-26 08:22:37] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-26 08:22:37] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 7408e90c-381a-4cbd-aa68-59ce133ba2e9
+[2025-09-26 08:22:44] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-26 08:22:44] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 96ee5fcf-ec05-4f00-a962-db91304715e9
+[2025-09-26 08:22:44] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 96ee5fcf-ec05-4f00-a962-db91304715e9
+[2025-09-26 08:22:44] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-26 08:22:44] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 96ee5fcf-ec05-4f00-a962-db91304715e9
+[2025-09-26 08:23:09] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-26 08:23:12] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
