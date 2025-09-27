@@ -8,3 +8,27 @@
 [log] Profiling ID set: 862e946e-e9f4-4fb1-bb34-99812c98dbab
 [2025-09-27 13:27:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-09-27 13:27:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 8912, SessionId: aa89de84-17d7-43c7-88d0-823535848bf2
+[2025-09-27 13:27:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 8912, SessionId: aa89de84-17d7-43c7-88d0-823535848bf2
+[2025-09-27 13:27:40] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-27 13:27:41] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: aa89de84-17d7-43c7-88d0-823535848bf2
+[2025-09-27 13:28:04] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-27 13:28:07] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe
+[2025-09-27 13:28:07] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 8912, SessionId: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe
+[2025-09-27 13:28:07] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe
+[2025-09-27 13:28:07] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 8912, SessionId: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe
+[2025-09-27 13:28:08] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe
+[2025-09-27 13:28:20] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-27 13:28:22] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
