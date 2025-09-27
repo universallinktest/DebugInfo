@@ -32,3 +32,15 @@
 [log] sendCAHbehavioSecData
 [2025-09-27 13:28:22] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-09-27 13:29:11] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] cahSessionID in response after cahflowcomplete: 750e09ce-4c1a-4a9d-879b-0b2cf7f8dabe, Timestamp: 2025-09-27 17:29:11 +0000
+[2025-09-27 13:32:39] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 28bbeb44-5841-4833-b8ad-adb767d6a5ef
+[2025-09-27 13:32:39] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 28bbeb44-5841-4833-b8ad-adb767d6a5ef
+[2025-09-27 13:32:39] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-27 13:32:39] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: 28bbeb44-5841-4833-b8ad-adb767d6a5ef
+[2025-09-27 13:36:41] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
