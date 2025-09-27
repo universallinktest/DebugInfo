@@ -1,0 +1,34 @@
+[2025-09-26 23:24:26] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:26] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:26] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-09-26 23:24:28] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:52] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-26 23:24:56] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:56] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:56] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:56] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:24:56] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:07] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] sendCAHbehavioSecData
+[2025-09-26 23:25:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] After recoverable error, New TMX SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] TMX Configuration - OrgId: 9y3flihj, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:10] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] Profiling ID set: ea2fc2e2-6311-4b1c-971e-b6d2dea45df5
+[2025-09-26 23:25:36] iOS 16.7.11 - iPhone | App 10.68.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
