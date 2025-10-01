@@ -28,3 +28,19 @@
 [log] Profiling ID set: 1e2e6629-9532-4826-b079-8735ffdb99a6
 [2025-10-01 12:48:30] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
 [log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-01 12:48:30] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: d7b7f46c-3269-4e38-9b8a-9b892744882f
+[2025-10-01 12:48:30] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: d7b7f46c-3269-4e38-9b8a-9b892744882f
+[2025-10-01 12:48:30] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-10-01 12:48:31] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] Profiling ID set: d7b7f46c-3269-4e38-9b8a-9b892744882f
+[2025-10-01 13:11:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: fcd59b80-4e2d-448c-a22d-702892986ea5
+[2025-10-01 13:11:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: fcd59b80-4e2d-448c-a22d-702892986ea5
+[2025-10-01 13:11:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-10-01 13:11:03] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] clearTMXViewName : eDesAuthMobileLoginView
