@@ -18,3 +18,13 @@
 [log] Profiling ID set: 80e3669f-56ad-4602-ac42-0b429493a3e5
 [2025-10-01 10:41:01] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-10-01 10:41:01] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 1e2e6629-9532-4826-b079-8735ffdb99a6
+[2025-10-01 10:41:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 1012, SessionId: 1e2e6629-9532-4826-b079-8735ffdb99a6
+[2025-10-01 10:41:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-01 10:41:02] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] Profiling ID set: 1e2e6629-9532-4826-b079-8735ffdb99a6
+[2025-10-01 12:48:30] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
