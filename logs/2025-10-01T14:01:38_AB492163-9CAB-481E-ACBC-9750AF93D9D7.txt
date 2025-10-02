@@ -58,3 +58,13 @@
 [log] Profiling ID set: f5067483-77bc-4633-b513-ca214c64825b
 [2025-10-02 09:31:05] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-10-02 09:32:00] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 2112, SessionId: fa347567-b43c-4b41-a44b-2e5d507decd2
+[2025-10-02 09:32:00] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] TMX Configuration - OrgId: 3dj9ki1x, Domain: m-profiling.cibc.com, PageId: 2112, SessionId: fa347567-b43c-4b41-a44b-2e5d507decd2
+[2025-10-02 09:32:00] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-10-02 09:32:01] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] Profiling ID set: fa347567-b43c-4b41-a44b-2e5d507decd2
+[2025-10-02 09:32:07] iOS 26.0 - iPhone | App 10.68.0__PILOT_2025918-20:49_main_dc183fa646 (Build 8)
+[log] clearTMXViewName : eDesAuthMobileLoginView
