@@ -1,0 +1,12 @@
+[2025-10-12 12:52:01] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 12:52:01] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Pre Log In Success - Start Journey
+[2025-10-12 12:52:02] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-10-12 12:52:02] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 12:52:02] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 12:52:02] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
