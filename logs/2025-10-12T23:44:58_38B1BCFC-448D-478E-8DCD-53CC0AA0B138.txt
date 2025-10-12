@@ -14,3 +14,21 @@
 [log] Configure Main Login Screen with eDES
 [2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Pre Log In Success - Start Journey
+[2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Pre Log In Success - Start Journey
+[2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Profiling ID set: 
+[2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileLoginView
+[2025-10-12 19:45:00] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Profiling ID set: 8c653924-5bc9-49b8-b6fb-05bca7701b22
+[2025-10-12 19:45:01] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-12 19:45:01] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Profiling ID set: 135de40d-fceb-489f-9306-ae9c7f790e7b
+[2025-10-12 19:45:01] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-10-12 19:48:48] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
