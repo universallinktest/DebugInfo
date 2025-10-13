@@ -8,3 +8,7 @@
 [log] Profiling ID set: 19df006d-1064-4210-b106-8f34570f46d1
 [2025-10-12 20:17:30] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
 [log] openURL : cibcbanking://register
+[2025-10-12 20:17:32] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 20:17:32] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileLoginView
