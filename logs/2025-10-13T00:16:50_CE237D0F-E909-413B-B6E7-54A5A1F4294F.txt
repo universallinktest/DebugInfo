@@ -1,2 +1,16 @@
 [2025-10-12 20:16:50] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
 [log] openURL : cibcbanking://register
+[2025-10-12 20:16:50] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] openURL : cibcbanking://register
+[2025-10-12 20:16:50] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 20:16:51] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Pre Log In Success - Start Journey
+[2025-10-12 20:16:51] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-12 20:16:52] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Profiling ID set: 1d10e553-a73a-42c9-be41-2f26c8384a48
+[2025-10-12 20:16:52] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 20:16:52] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
