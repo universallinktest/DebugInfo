@@ -8,3 +8,9 @@
 [log] Profiling ID set: d8d2a754-34aa-4c0b-b93a-50205cdd78e0
 [2025-10-12 20:09:53] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
 [log] clearTMXViewName : eDesAuthMobileLoginView
+[2025-10-12 20:09:53] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] setTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
+[2025-10-12 20:09:54] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Profiling ID set: 3f6deaab-09b8-43b0-9943-212a7e7f453e
+[2025-10-12 20:09:57] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] clearTMXViewName : eDesAuthMobileResetPasswordRegistrationCardDetailsView
