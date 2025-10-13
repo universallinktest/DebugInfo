@@ -1,0 +1,6 @@
+[2025-10-12 20:22:48] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] openURL : cibcbanking://register
+[2025-10-12 20:22:48] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] Configure Main Login Screen with eDES
+[2025-10-12 20:22:48] iOS 16.7.11 - iPhone | App 10.69.0 (Build 1)
+[log] openURL : cibcbanking://register
